@@ -1,6 +1,8 @@
 # Summary
 
 * [目录](README.md)
+* 工具安装
+  * [gitbook](tools/gitbook)
 * Python
 * SQL
 * Excel
