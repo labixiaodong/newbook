@@ -1,6 +1,6 @@
 # newbook
 
+**别说了直接关注公众号！**
 
-
-这是一个新的notenook
+![wechat](image/readme/wechat_image.png)
 
