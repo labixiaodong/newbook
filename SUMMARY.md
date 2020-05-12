@@ -12,7 +12,7 @@
     * 诊断报告
     * 复盘报告
     * 行业及竞品研究报告
-  * AB test
+  * [AB test](business/ab_test.md)
 * 已读
   * 历史
   * 心理学
