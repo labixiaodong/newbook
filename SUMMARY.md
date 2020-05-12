@@ -2,7 +2,7 @@
 
 * [目录](README.md)
 * 工具安装
-  * [gitbook](tools/gitbook)
+  * [gitbook](tools/gitbook.md)
 * Python
 * SQL
 * Excel

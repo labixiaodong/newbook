@@ -2,5 +2,5 @@
 
 **别说了直接关注公众号！**
 
-![wechat](image/readme/wechat.png)
+![Wechat](image/readme/WechatIMG723.png)
 
