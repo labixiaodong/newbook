@@ -110,3 +110,24 @@ $ git subtree push --prefix=_book origin gh-pages
 ```
 
 每次更新本地项目之后，重复以上几条命令即可使线上同步更新。
+
+
+
+### 7 、配置gitbook
+
+#### 7.1 导航栏伸缩
+
+在根目录下（summary.md同级）创建文件：book.json
+
+添加：
+
+```
+{
+	"plugins": ["expandable-chapters"]
+}
+```
+
+
+
+
+
