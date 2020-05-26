@@ -15,8 +15,6 @@
     * 行业及竞品研究报告
   * [AB test](business/ab_test.md)
 * 已读
-  * 历史
-  * 心理学
-  * 经济学
-  * 技术
+  * 麦肯锡方法
+    * [思考问题的方法](business/mckinsey_method.md)
 
