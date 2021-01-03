@@ -6,6 +6,8 @@
 * Python
 * SQL
 * Excel
+* 数据可视化
+  * p yechart
 * 业务
   * 数据银行/策略中心
     * [人群运营](business/quanren.md)
